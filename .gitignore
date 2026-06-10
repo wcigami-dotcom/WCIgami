@@ -1,0 +1,6 @@
+.env
+wcigami.db
+*.log
+__pycache__/
+*.pyc
+.DS_Store
